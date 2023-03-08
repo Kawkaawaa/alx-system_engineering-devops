@@ -5,3 +5,4 @@ Learning shell basics with ALX
 3)  ls -l Display current directory contents in a long format
 4)  ls -la Display current directory contents, including hidden files (starting with .)
 5)  ls -al Display current directory digit files only
+6)  mkdir dir1/dir2 create a directory inside of a directory
