@@ -6,3 +6,4 @@ Learning shell basics with ALX
 4)  ls -la Display current directory contents, including hidden files (starting with .)
 5)  ls -al Display current directory digit files only
 6)  mkdir dir1/dir2 create a directory inside of a directory
+7)  ./7-movethatfile moves betty file from tmp to my first directory
