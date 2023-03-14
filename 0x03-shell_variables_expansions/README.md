@@ -4,3 +4,4 @@
 3-paths contains a script that counts all the directories in the PATH
 4-global_variables contains a script that lists environment variables
 5-local_variables contains a script that lists all local variables and environment varialbs and functions
+6-create_local_variable contains a script that creates a local variable name: BEST value School
